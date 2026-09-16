@@ -17,7 +17,6 @@ bike_sales/
 ├── limpeza.py                       # pipeline de limpeza (ETL)
 ├── cleaned_bike_sales_data.csv      # dataset tratado (saída da limpeza)
 ├── analise_bike_sales.ipynb         # notebook de análise + insights
-├── anotacoes.md                     # aprendizados durante o projeto
 ├── proximos_estudos.md              # tópicos a estudar em seguida
 └── README.md
 ```
