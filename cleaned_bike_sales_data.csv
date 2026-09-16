@@ -1,0 +1,88 @@
+pedido_venda;data;idade_cliente;faixa_etaria;genero_cliente;pais;estado;categoria_produto;subcategoria;quantidade;custo_unitario;preco_unitario;lucro
+261695;2021-12-01;39;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261697;2021-12-02;37;Adults (35-64);Masculino; United States;California;Bikes;Mountain Bikes;2;420.0;769.0;698.0
+261698;2021-12-02;31;Young Adults (25-34);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;1;420.0;769.0;349.0
+261699;2021-12-03;37;Adults (35-64);Feminino;United  States;California;Bikes;Mountain Bikes;2;0.0;2295.0;2086.0
+261700;2021-12-03;24;Youth (<25);Feminino;United Kingdom;England;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261701;2021-12-03;37;Adults (35-64);Masculino;United States ;Washington;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261702;2021-12-04;31;Young Adults (25-34);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;4;420.0;0.0;1396.0
+261703;2021-12-05;39;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261704;2021-12-05;42;Adults (35-64);Masculino;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261705;2021-12-05;35;Adults (35-64);Feminino;Australia;Queensland;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261706;2021-12-05;37;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261707;2021-12-06;23;Youth (<25);Masculino;United Kingdom;England;Bikes;Mountain Bikes;3;420.0;769.0;1047.0
+261708;2021-12-06;27;Young Adults (25-34);Masculino;Canada;British Columbia;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261709;2021-12-06;36;Adults (35-64);Masculino;Australia;New South Wales;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261710;2021-12-06;47;Adults (35-64);Masculino;United Kingdom;England;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261711;2021-12-07;30;Young Adults (25-34);Masculino;United States;California;Bikes;Mountain Bikes;4;420.0;769.0;1396.0
+261712;2021-12-07;38;Adults (35-64);Masculino;United States;California;Bikes;Mountain Bikes;2;1266.0;2320.0;2108.0
+261713;2021-12-08;19;Youth (<25);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;4;308.0;565.0;1028.0
+261714;2021-12-08;30;Young Adults (25-34);Feminino;Canada;British Columbia;Bikes;Mountain Bikes;4;1266.0;2320.0;4216.0
+261715;2021-12-08;39;Adults (35-64);Feminino;United States;Oregon;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261716;2021-12-08;35;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;1;295.0;540.0;245.0
+261717;2021-12-09;33;Young Adults (25-34);Feminino;Australia;Victoria;Bikes;Mountain Bikes;2;1898.0;3375.0;2954.0
+261718;2021-12-09;41;Adults (35-64);Feminino;Germany;Hamburg;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261719;2021-12-10;34;Young Adults (25-34);Feminino;United States;California;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261720;2021-12-10;40;Adults (35-64);Masculino;Australia;New South Wales;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261721;2021-12-10;26;Young Adults (25-34);Masculino;United Kingdom;England;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261722;2021-12-10;34;Young Adults (25-34);Masculino;United States;California;Bikes;Mountain Bikes;1;295.0;540.0;245.0
+261723;2021-12-10;34;Young Adults (25-34);Feminino;United States;Washington;Bikes;Mountain Bikes;1;1912.0;3400.0;1488.0
+261724;2021-12-10;38;Adults (35-64);Masculino;Australia;New South Wales;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261725;2021-12-11;24;Youth (<25);Feminino;France;Seine (Paris);Bikes;Mountain Bikes;3;1252.0;2295.0;3129.0
+261726;2021-12-11;41;Adults (35-64);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;2;420.0;769.0;698.0
+261727;2021-12-11;27;Young Adults (25-34);Masculino;Canada;British Columbia;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261728;2021-12-11;37;Adults (35-64);Masculino;United States;California;Bikes;Mountain Bikes;1;420.0;769.0;349.0
+261729;2021-12-11;38;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261730;2021-12-12;36;Adults (35-64);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;4;1266.0;2320.0;4216.0
+261731;2021-12-12;37;Adults (35-64);Masculino;United States;California;Bikes;Mountain Bikes;4;420.0;769.0;1396.0
+261732;2021-12-12;34;Young Adults (25-34);Masculino;Australia;New South Wales;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261733;2021-12-12;35;Adults (35-64);Feminino;Australia;Victoria;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261734;2021-12-12;38;Adults (35-64);Feminino;United States;Washington;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261735;2021-12-13;32;Young Adults (25-34);Feminino;Australia;Queensland;Bikes;Mountain Bikes;3;1266.0;2320.0;3162.0
+261736;2021-12-13;40;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;1;308.0;565.0;257.0
+261737;2021-12-13;44;Adults (35-64);Feminino;United Kingdom;England;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261738;2021-12-13;49;Adults (35-64);Masculino;United Kingdom;England;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261739;2021-12-14;30;Young Adults (25-34);Feminino;United States;Washington;Bikes;Mountain Bikes;2;1266.0;2320.0;2108.0
+261740;2021-12-14;32;Young Adults (25-34);Masculino;United States;California;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261741;2021-12-14;32;Young Adults (25-34);Feminino;Australia;Victoria;Bikes;Mountain Bikes;1;420.0;769.0;349.0
+261742;2021-12-15;29;Young Adults (25-34);Feminino;United States;California;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261743;2021-12-16;33;Young Adults (25-34);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261744;2021-12-16;38;Adults (35-64);Masculino;Australia;New South Wales;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261745;2021-12-16;27;Young Adults (25-34);Feminino;France;Seine et Marne;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261746;2021-12-17;37;Adults (35-64);Feminino;United States;Washington;Bikes;Mountain Bikes;2;1266.0;2320.0;2108.0
+261747;2021-12-17;31;Young Adults (25-34);Masculino;Australia;New South Wales;Bikes;Mountain Bikes;1;420.0;769.0;349.0
+261748;2021-12-17;42;Adults (35-64);Feminino;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261749;2021-12-18;35;Adults (35-64);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;4;308.0;565.0;1028.0
+261750;2021-12-18;38;Adults (35-64);Feminino;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;4;1266.0;2320.0;4216.0
+261751;2021-12-18;24;Youth (<25);Feminino;France;Seine Saint Denis;Bikes;Mountain Bikes;3;1266.0;2320.0;3162.0
+261752;2021-12-18;26;Young Adults (25-34);Feminino;United Kingdom;England;Bikes;Mountain Bikes;3;420.0;769.0;1047.0
+261753;2021-12-18;39;Adults (35-64);Masculino;United States;California;Bikes;Mountain Bikes;3;1252.0;2295.0;3129.0
+261754;2021-12-18;26;Young Adults (25-34);Masculino;France;Seine (Paris);Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261755;2021-12-18;36;Adults (35-64);Masculino;United States;Washington;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261756;2021-12-19;17;Youth (<25);Masculino;France;Nord;Bikes;Mountain Bikes;4;1266.0;2320.0;4216.0
+261757;2021-12-19;19;Youth (<25);Feminino;Australia;Victoria;Bikes;Mountain Bikes;4;295.0;540.0;980.0
+261758;2021-12-19;25;Young Adults (25-34);Masculino;France;Seine (Paris);Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261759;2021-12-19;35;Adults (35-64);Feminino;United States;Oregon;Bikes;Mountain Bikes;4;1898.0;3375.0;5908.0
+261760;2021-12-19;37;Adults (35-64);Masculino;United States;Oregon;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261761;2021-12-19;39;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261762;2021-12-19;63;Adults (35-64);Feminino;Australia;Queensland;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261763;2021-12-19;18;Youth (<25);Masculino;Australia;South Australia;Bikes;Mountain Bikes;2;295.0;540.0;490.0
+261764;2021-12-19;56;Adults (35-64);Feminino;Germany;Hessen;Bikes;Mountain Bikes;2;1252.0;2295.0;2086.0
+261765;2021-12-19;39;Adults (35-64);Feminino;United States;Washington;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261766;2021-12-20;33;Young Adults (25-34);Feminino;Australia;Victoria;Bikes;Mountain Bikes;4;1898.0;3375.0;5908.0
+261767;2021-12-20;57;Adults (35-64);Masculino;Australia;Queensland;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
+261768;2021-12-20;29;Young Adults (25-34);Masculino;Canada;British Columbia;Bikes;Mountain Bikes;3;295.0;540.0;735.0
+261769;2021-12-20;35;Adults (35-64);Feminino;Australia;Queensland;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261770;2021-12-20;35;Adults (35-64);Masculino;Australia;Victoria;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261771;2021-12-21;26;Young Adults (25-34);Masculino;France;Somme;Bikes;Mountain Bikes;3;1266.0;2320.0;3162.0
+261772;2021-12-21;23;Youth (<25);Masculino;United Kingdom;England;Bikes;Mountain Bikes;2;420.0;769.0;698.0
+261773;2021-12-22;30;Young Adults (25-34);Feminino;United States;Washington;Bikes;Mountain Bikes;3;1266.0;2320.0;3162.0
+261774;2021-12-22;41;Adults (35-64);Masculino;United States;California;Bikes;Mountain Bikes;3;1252.0;2295.0;3129.0
+261775;2021-12-22;19;Youth (<25);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;1;308.0;565.0;257.0
+261776;2021-12-22;25;Young Adults (25-34);Masculino;France;Seine (Paris);Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261777;2021-12-22;27;Young Adults (25-34);Feminino;Canada;British Columbia;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261778;2021-12-22;41;Adults (35-64);Masculino;Germany;Hessen;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261779;2021-12-23;30;Young Adults (25-34);Feminino;United States;Oregon;Bikes;Mountain Bikes;1;1266.0;2320.0;1054.0
+261780;2021-12-23;31;Young Adults (25-34);Feminino;Canada;British Columbia;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261781;2021-12-23;35;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;1;295.0;540.0;245.0
+261782;2021-12-24;38;Adults (35-64);Masculino;Australia;Queensland;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
