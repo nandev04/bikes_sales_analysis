@@ -4,7 +4,7 @@ Projeto de análise exploratória (EDA) sobre um dataset de vendas de bicicletas
 
 ## Dataset
 
-- **Fonte:** `uncleaned_bike_sales_data.xlsx` (dados brutos, 89 linhas × 19 colunas)
+- **Fonte:** [Kaggle](https://www.kaggle.com/) — arquivo `uncleaned_bike_sales_data.xlsx` (dados brutos, 89 linhas × 19 colunas)
 - **Período:** 01/12/2021 a 24/12/2021
 - **Escopo:** 5 países (Estados Unidos, Austrália, França, Alemanha, Canadá), dados de gênero, faixa etária, produto, quantidade, custo, preço e lucro
 - **Arquivo tratado:** `cleaned_bike_sales_data.csv` (87 linhas × 13 colunas, gerado pelo `limpeza.py`)
