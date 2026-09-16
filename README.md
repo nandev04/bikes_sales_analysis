@@ -59,11 +59,12 @@ Ou abrir diretamente no VS Code. O notebook lê o CSV tratado, por isso a limpez
 
 1. Remover colunas desnecessárias (`Year`, `Day`, `Month`, `Product_Description`, `Cost`, `Revenue` — redundantes ou não usadas)
 2. Padronizar nomes de colunas (traduzir para PT-BR)
-3. Recodificar valores (`M`/`F` → `Masculino`/`Feminino`)
-4. Remover pedidos duplicados
-5. Recategorizar `faixa_etaria` com base em `idade_cliente` (bins: `<25`, `25-34`, `35-64`, `64+`)
-6. Preencher `quantidade` nula com `1`
-7. Converter tipos numéricos
+3. Normalizar espaços dos valores de texto (evita categorias duplicadas do tipo `"United  States"` vs `"United States"`)
+4. Recodificar valores (`M`/`F` → `Masculino`/`Feminino`)
+5. Remover pedidos duplicados
+6. Recategorizar `faixa_etaria` com base em `idade_cliente` (bins: `<25`, `25-34`, `35-64`, `64+`)
+7. Preencher `quantidade` nula com `1`
+8. Converter tipos numéricos
 
 ## Análises realizadas
 
@@ -77,10 +78,11 @@ Ou abrir diretamente no VS Code. O notebook lê o CSV tratado, por isso a limpez
 
 ## Principais insights
 
-1. **Estados Unidos lidera o lucro por país**, apesar de a Austrália ter mais estados no top 5 por lucro. Muitos estados com lucro médio somam mais do que poucos estados com lucro alto.
-2. **Adultos (35-64) concentram ~53% dos pedidos**, seguidos de jovens adultos (~36%) e jovens (~11%). A distribuição faz sentido para o mix de produtos (bicicletas de estrada, mountain bikes, acessórios).
-3. **Público feminino lidera** tanto em quantidade (57,5% vs 42,5%) quanto em ticket médio (~10% acima do masculino).
-4. **Lucro diário é volátil:** em 24 dias, a meta de $10.000,00 foi batida em apenas 4 dias, com picos anômalos nos dias 18 e 19 (+47% e +214% acima da meta) seguidos de quedas bruscas.
+1. **Estados Unidos lidera o lucro por país** ($60.370), seguidos de perto pela Austrália ($50.326), com França, Alemanha e Canadá bem atrás. 3 dos 5 estados mais lucrativos são americanos (California, Oregon, Washington) e 2 australianos (New South Wales, Queensland).
+2. **Ticket médio inverte o ranking:** França ($5.771,88) e Alemanha ($5.001,67) lideram em valor por pedido, enquanto EUA e Austrália ganham no volume.
+3. **Adultos (35-64) concentram ~53% dos pedidos**, seguidos de jovens adultos (~36%) e jovens (~11%). A distribuição faz sentido para o mix de produtos (bicicletas de estrada, mountain bikes, acessórios).
+4. **Público feminino lidera** tanto em quantidade (57,5% vs 42,5%) quanto em ticket médio (~10% acima do masculino).
+5. **Lucro diário é volátil:** em 24 dias, a meta de $10.000,00 foi batida em apenas 4 dias, com picos anômalos nos dias 18 e 19 (+47% e +214% acima da meta) seguidos de quedas bruscas.
 
 ## Aprendizados
 

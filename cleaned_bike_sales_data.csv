@@ -1,10 +1,10 @@
 pedido_venda;data;idade_cliente;faixa_etaria;genero_cliente;pais;estado;categoria_produto;subcategoria;quantidade;custo_unitario;preco_unitario;lucro
 261695;2021-12-01;39;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
-261697;2021-12-02;37;Adults (35-64);Masculino; United States;California;Bikes;Mountain Bikes;2;420.0;769.0;698.0
+261697;2021-12-02;37;Adults (35-64);Masculino;United States;California;Bikes;Mountain Bikes;2;420.0;769.0;698.0
 261698;2021-12-02;31;Young Adults (25-34);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;1;420.0;769.0;349.0
-261699;2021-12-03;37;Adults (35-64);Feminino;United  States;California;Bikes;Mountain Bikes;2;0.0;2295.0;2086.0
+261699;2021-12-03;37;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;2;0.0;2295.0;2086.0
 261700;2021-12-03;24;Youth (<25);Feminino;United Kingdom;England;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
-261701;2021-12-03;37;Adults (35-64);Masculino;United States ;Washington;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
+261701;2021-12-03;37;Adults (35-64);Masculino;United States;Washington;Bikes;Mountain Bikes;1;1252.0;2295.0;1043.0
 261702;2021-12-04;31;Young Adults (25-34);Feminino;Australia;New South Wales;Bikes;Mountain Bikes;4;420.0;0.0;1396.0
 261703;2021-12-05;39;Adults (35-64);Feminino;United States;California;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0
 261704;2021-12-05;42;Adults (35-64);Masculino;Germany;Nordrhein-Westfalen;Bikes;Mountain Bikes;4;1252.0;2295.0;4172.0

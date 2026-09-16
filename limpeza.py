@@ -33,6 +33,10 @@ colunas_pt = {
 }
 df = df.rename(columns=colunas_pt)
 
+# Normalizar espaços dos valores de texto (ex: "United  States" -> "United States")
+for col in df.select_dtypes(include='str').columns:
+    df[col] = df[col].str.replace(r'\s+', ' ', regex=True).str.strip()
+
 # Renomear valores de coluna
 df['genero_cliente'] = df['genero_cliente'].map({'M': 'Masculino', 'F': 'Feminino'})
 
